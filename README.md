@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Rahma, an MSc Computer Science Engineer who enjoys turning curiosity into hands-on projects. 
-I'm currently exploring Cybersecurity, Cloud, IAM, and DevSecOps — learning by building, breaking things in safe labs, fixing them, and figuring out how they work. 
-I enjoy Python, Linux, networking, and security projects, and I like documenting what I learn along the way.
+👋 Hi, I'm Rahma, an MSc Computer Science Engineer who enjoys turning curiosity into hands-on projects.<br><br>
+I'm currently exploring Cybersecurity, Cloud, IAM, and DevSecOps — learning by building, breaking things in safe labs, fixing them, and figuring out how they work.<br><br>
+I enjoy Python, Linux, networking, and security projects, and I like documenting what I learn along the way.<br><br>
 💡 Always learning, always experimenting, and often asking myself: "How does this work?!" 😄
 
 ## 🌐 Socials:
